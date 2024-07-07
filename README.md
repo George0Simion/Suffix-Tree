@@ -1,4 +1,4 @@
-# Task 1 - Arbore de Sufixe
+# Arbore de Sufixe
 
 ## Cuprins
 1. [Task 1 - Arbore de Sufixe](#task-1---arbore-de-sufixe)
